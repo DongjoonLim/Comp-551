@@ -1,0 +1,3 @@
+model_checkpoint_path: "mnist_relu_norm8192"
+all_model_checkpoint_paths: "/tmp/mnist_relu_norm8192.ckpt"
+all_model_checkpoint_paths: "mnist_relu_norm8192"
